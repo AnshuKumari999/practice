@@ -16,7 +16,7 @@ env:
 
 jobs:
 
-  news3bucket :
+  news3 :
 
       runs-on : ubuntu-latest
 
